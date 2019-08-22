@@ -1,1 +1,1 @@
-# EE5600-Intro-AI-ML
+# EE5600-Intro-to-AI-ML
